@@ -30,17 +30,6 @@ WEBSITE STRUCTURE
 - right-sidebar.html - Printing & Photocopying Services page
 - no-sidebar.html - Digital Media & Phone Accessories page
 
-DEPLOYMENT
-==========
-
-This website is ready to deploy on GitHub Pages:
-
-1. Create a GitHub repository named "yourusername.github.io"
-2. Push all project files to the repository
-3. Your site will be live at https://yourusername.github.io
-
-The site is fully responsive and works on desktop, tablet, and mobile devices.
-
 TECHNICAL DETAILS
 =================
 
@@ -65,9 +54,3 @@ FEATURES
 - Contact information in footer
 - Internal navigation anchors
 - Mobile-friendly navigation
-
-CUSTOMIZATION NOTES
-===================
-
-All placeholder content has been replaced with Jabulani Moyo's actual business information.
-Images in the /images folder can be replaced with business-specific photos for better branding.
