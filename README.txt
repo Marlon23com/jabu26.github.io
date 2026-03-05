@@ -22,35 +22,32 @@ CONTACT INFORMATION
 Phone: +263 78 293 4443
 Email: kingluirange@gmail.com
 
-WEBSITE STRUCTURE
-=================
+WEBSITE STATUS
+==============
 
-- index.html - Main landing page featuring all services and call-to-action
-- left-sidebar.html - Professional Tiling Services page
-- right-sidebar.html - Printing & Photocopying Services page
-- no-sidebar.html - Digital Media & Phone Accessories page
+LIVE at: https://marlon23com.github.io/jabu26.github.io/
+
+Features:
+- Professional, modern design with high-quality stock images
+- Fully responsive (mobile, tablet, desktop)
+- Call-to-action buttons (phone, email)
+- Professional photography from Unsplash
+- Contact information in footer
+- Mobile-friendly navigation
+
+IMAGES
+======
+
+All product images are professional stock photos from Unsplash:
+- Tiling: Professional tile work
+- Printing: Modern printing equipment
+- Digital Media: Music and entertainment equipment
 
 TECHNICAL DETAILS
 =================
 
 Built using the Verti responsive template by HTML5 UP
 - Pure HTML5 and CSS3
-- No external dependencies required
-- Responsive design with mobile-first approach
-- Includes Font Awesome icons and jQuery for functionality
-
-Assets include:
-- CSS stylesheets (assets/css/main.css)
-- JavaScript libraries (jQuery, responsive tools)
-- Sample images in images/ directory
-
-FEATURES
-========
-
-- Professional, modern design
-- Fully responsive layout
-- Call-to-action buttons (phone, email)
-- Service showcase with descriptions
-- Contact information in footer
-- Internal navigation anchors
-- Mobile-friendly navigation
+- Responsive design
+- Font Awesome icons and jQuery
+- Unsplash API for professional images
